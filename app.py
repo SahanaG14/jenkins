@@ -34,3 +34,6 @@ if __name__ == "__main__":
 
     print("\nExecuting Automated Tests...\n")
     unittest.main(argv=['first-arg-is-ignored'], exit=False)
+
+
+print("hello world")
